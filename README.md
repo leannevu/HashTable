@@ -1,2 +1,3 @@
 # HashTable
-Avoided collisions by creating an array of linked lists coded in C++
+
+Implement HashTable data structure and avoid collisions by creating an array of linked lists
